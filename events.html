@@ -1,0 +1,48 @@
+---
+layout: default
+title: CoderCamp Hamilton, Ontario
+icon: fa-trophy
+tagline: Hamilton, Ontario
+---
+
+<div class="jumbotron">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h1><i class="fa fa-calendar"></i> All Games</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+    <div class="content">
+        <table class="table table-striped"><tbody>
+        {% for post in site.posts reversed %}
+        <tr>
+            {% if post.changed_hands %}
+            <td rowspan="{{post.held_for}}">
+                {{post.held_by}}
+                <div class="events-info">Held for {{post.held_for}} challenges</div>
+            </td>
+            {% endif %}
+            <td>
+                {{post.home}}
+            </td>
+            <td style="text-align: center">
+                <!-- <a href="{{ post.url }}"> -->
+                    {{post.home_score}}&mdash;{{post.away_score}}
+                <!-- </a> -->
+            </td>
+            <td>
+                {{post.away}}
+            </td>
+            <td>
+                <div class="events-info"><i class="fa fa-calendar"></i> {{ post.date | date: "%b %-d, %Y" }}{% if post.time %} &nbsp;&nbsp;<i class="fa fa-clock-o"></i> {{ post.time }}{% endif %}<br />
+                <i class="fa fa-map-marker"></i> {{ post.location }}</div>
+            </td>
+        </tr>
+        {% endfor %}
+        </tbody></table>
+    </div>
+</div>

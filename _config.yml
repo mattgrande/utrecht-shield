@@ -1,1 +1,24 @@
-theme: jekyll-theme-minimal
+# For more see: http://jekyllrb.com/docs/permalinks/
+permalink: /Events/:year/:month/:day/:title
+
+# Shows events with dates in the future
+future: false
+
+exclude: [".gitignore", "CNAME", "README.md", "Gemfile"]
+highlighter: rouge
+
+# https://help.github.com/articles/migrating-your-pages-site-from-maruku
+markdown: kramdown
+
+title : Utrect Shield
+tagline: A challenge trophy for women's rugby
+description: "..."
+author :
+  name : Matt Grande
+  email : matt.grande@gmail.com
+  github : mattgrande
+  twitter : mattgrande
+
+# This is used in the Atom & RSS feeds and in the sitemap
+rss_path: /rss.xml
+atom_path: /atom.xml

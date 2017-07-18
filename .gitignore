@@ -1,0 +1,15 @@
+_site/*
+_theme_packages/*
+.sass-cache/*
+vendor/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+.bundle
+Gemfile.lock
+jekyll
