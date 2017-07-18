@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Westpac Stadium, Wellington, New Zealand
 home: New Zealand
 away: Canada
 home_score: 28

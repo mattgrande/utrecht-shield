@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Rosslyn Park, England
 home: Great Britain
 away: France
 home_score: 13

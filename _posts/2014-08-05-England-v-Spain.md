@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: CNR, Marcoussis, France
 home: England
 away: Spain
 home_score: 45

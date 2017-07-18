@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Bourg en Bresse, France
 home: France
 away: Great Britain
 home_score: 8

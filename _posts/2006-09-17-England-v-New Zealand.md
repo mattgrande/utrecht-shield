@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Commonwealth Stadium, Edmonton, Alberta, Canada
 home: England
 away: New Zealand
 home_score: 17

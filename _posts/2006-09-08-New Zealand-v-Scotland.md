@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Ellerslie Rugby Park, Edmonton, Alberta, Canada
 home: New Zealand
 away: Scotland
 home_score: 21

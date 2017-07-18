@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Cardiff Arms Park, Cardiff, Wales
 home: England
 away: United States
 home_score: 6

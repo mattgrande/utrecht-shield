@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Rovereto, Italy
 home: England
 away: Spain
 home_score: 61

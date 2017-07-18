@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Donnybrook, Dublin, Ireland
 home: Canada
 away: New Zealand
 home_score: 10

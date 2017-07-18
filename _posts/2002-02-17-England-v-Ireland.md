@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Worcester, England
 home: England
 away: Ireland
 home_score: 79

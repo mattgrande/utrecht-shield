@@ -29,16 +29,14 @@ CSV.foreach("./matches.csv") do |row|
     game[:away_score] = row[2].to_i
     game[:away] = row[3]
     game[:date] = row[4]
+    game[:location] = row[6]
     game[:filename] = "#{row[4]}-#{row[0]}-v-#{row[3]}.md"
     @info[game[:date]] = game
     if (game[:home_score] > game[:away_score])
-        puts "HOME: #{game[:home]} #{game[:home_score]}-#{game[:away_score]} #{game[:away]}"
         update_holder(row[0], game[:date])
     elsif (game[:away_score] > game[:home_score])
-        puts "AWAY: #{game[:home]} #{game[:home_score]}-#{game[:away_score]} #{game[:away]}"
         update_holder(row[3], game[:date])
     else
-        puts "DRAW: #{game[:home]} #{game[:home_score]}-#{game[:away_score]} #{game[:away]}"
         update_holder(@current_holder, game[:date])
     end
 end
@@ -49,7 +47,7 @@ update_holder(nil, nil)
     File.open("_posts/#{value[:filename]}", 'w') do |f|
         f.puts('---')
         f.puts('layout: event')
-        f.puts('location: Utrecht')
+        f.puts("location: #{value[:location]}")
         f.puts("home: #{value[:home]}")
         f.puts("away: #{value[:away]}")
         f.puts("home_score: #{value[:home_score]}")

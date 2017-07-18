@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Swansea, Wales
 home: England
 away: Spain
 home_score: 12

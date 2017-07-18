@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Archerstown Road, Ashbourne, Ireland
 home: Ireland
 away: Wales
 home_score: 14

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Sant Boi de Llobregat, Barcelona, Spain
 home: France
 away: Kazakhstan
 home_score: 31

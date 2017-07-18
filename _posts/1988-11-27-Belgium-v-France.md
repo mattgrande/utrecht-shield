@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Brussels, Belgium
 home: Belgium
 away: France
 home_score: 0

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: St. Albert Rugby Park, St. Albert, Alberta, Canada
 home: New Zealand
 away: Samoa
 home_score: 50

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Chalon-sur-Saône, France
 home: France
 away: Netherlands
 home_score: 22

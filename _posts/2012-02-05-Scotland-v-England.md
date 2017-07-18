@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Lasswade, Scotland
 home: Scotland
 away: England
 home_score: 0

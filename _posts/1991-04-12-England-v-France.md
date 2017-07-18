@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Cardiff Arms Park, Cardiff, Wales
 home: England
 away: France
 home_score: 13

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Tournon, Lyon, France
 home: France
 away: England
 home_score: 22

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Stadio Nando Capra, Noceto, Italy
 home: Italy
 away: England
 home_score: 0

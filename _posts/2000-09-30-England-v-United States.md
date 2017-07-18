@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Winnipeg, Manitoba, Canada
 home: England
 away: United States
 home_score: 13

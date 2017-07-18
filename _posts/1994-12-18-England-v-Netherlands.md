@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Wasps RFC, London, England
 home: England
 away: Netherlands
 home_score: 30

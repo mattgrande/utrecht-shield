@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Twickenham Stoop, London, England
 home: England
 away: Australia
 home_score: 15

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Northampton, England
 home: England
 away: France
 home_score: 15

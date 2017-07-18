@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Calgary Rugby Park, Calgary, Canada
 home: New Zealand
 away: United States
 home_score: 35

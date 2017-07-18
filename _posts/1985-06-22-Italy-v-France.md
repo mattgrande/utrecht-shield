@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Riccione, Italy
 home: Italy
 away: France
 home_score: 0

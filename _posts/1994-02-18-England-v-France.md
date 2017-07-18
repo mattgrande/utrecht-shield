@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Wolverhampton, England
 home: England
 away: France
 home_score: 32

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Broadwood Stadium, Cumbernauld, Scotland
 home: Scotland
 away: Wales
 home_score: 3

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Edinburgh Academicals RFC, Edinburgh, Scotland
 home: England
 away: United States
 home_score: 38

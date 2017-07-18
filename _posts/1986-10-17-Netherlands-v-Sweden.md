@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Nijmegen, Netherlands
 home: Netherlands
 away: Sweden
 home_score: 11

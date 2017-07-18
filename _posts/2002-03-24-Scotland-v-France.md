@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Inverleith, Scotland
 home: Scotland
 away: France
 home_score: 12

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Surrey Sports Park, Guildford, England
 home: England
 away: Ireland
 home_score: 27

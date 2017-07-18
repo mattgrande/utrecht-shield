@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Sale RFC, England
 home: England
 away: Wales
 home_score: 25

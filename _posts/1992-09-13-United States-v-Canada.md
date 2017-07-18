@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Blaine, Minnesota
 home: United States
 away: Canada
 home_score: 13

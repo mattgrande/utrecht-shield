@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Ottawa, Ontario, Canada
 home: Canada
 away: New Zealand
 home_score: 3

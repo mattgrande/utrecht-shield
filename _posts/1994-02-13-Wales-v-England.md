@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Northampton RFC, Northampton, England
 home: Wales
 away: England
 home_score: 10

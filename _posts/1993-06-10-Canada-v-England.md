@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Ajax, Ontario, Canada
 home: Canada
 away: England
 home_score: 8

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Stade de la Rabine, Vannes, France
 home: France
 away: England
 home_score: 17

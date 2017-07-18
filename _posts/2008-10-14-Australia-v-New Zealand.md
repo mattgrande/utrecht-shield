@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Viking Park, Wanniassa, Australia
 home: Australia
 away: New Zealand
 home_score: 3

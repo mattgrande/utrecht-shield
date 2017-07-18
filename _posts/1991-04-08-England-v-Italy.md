@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Llanharan, Wales
 home: England
 away: Italy
 home_score: 25

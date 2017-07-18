@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Regional Athletic Complex, Salt Lake City, Utah
 home: England
 away: United States
 home_score: 39

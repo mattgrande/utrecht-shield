@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Meggetland Sports Complex, Edinburgh, Scotland
 home: Scotland
 away: England
 home_score: 0

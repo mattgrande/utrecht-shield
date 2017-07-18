@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Limerick, Ireland
 home: Ireland
 away: England
 home_score: 0

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Leicester, England
 home: England
 away: Wales
 home_score: 56

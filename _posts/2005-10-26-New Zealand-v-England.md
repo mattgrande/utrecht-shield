@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Waikako Stadium, Hamilton, New Zealand
 home: New Zealand
 away: England
 home_score: 33

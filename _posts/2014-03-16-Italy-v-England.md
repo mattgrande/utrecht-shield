@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Stadio Giulio e Silvio Pagani, Rovato, Italy
 home: Italy
 away: England
 home_score: 0

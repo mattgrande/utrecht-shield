@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: La Teste, France
 home: France
 away: Netherlands
 home_score: 10

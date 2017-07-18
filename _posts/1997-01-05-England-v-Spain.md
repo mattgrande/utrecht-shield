@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Leeds, England
 home: England
 away: Spain
 home_score: 17

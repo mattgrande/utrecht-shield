@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Stade Jean-Bouin, Paris, France
 home: Ireland
 away: England
 home_score: 7

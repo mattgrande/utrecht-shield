@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Stade Aimé Giral, Perpignan, France
 home: France
 away: Ireland
 home_score: 18

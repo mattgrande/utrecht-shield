@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Archerstown Road, Ashbourne, Ireland
 home: Ireland
 away: Scotland
 home_score: 59

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: UCD Bowl, Dublin, Ireland
 home: Ireland
 away: England
 home_score: 10

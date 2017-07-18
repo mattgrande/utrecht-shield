@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Twickenham Stoop, London, England
 home: New Zealand
 away: England
 home_score: 13

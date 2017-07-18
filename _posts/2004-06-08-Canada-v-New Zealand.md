@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Thunderbird Stadium, Vancouver, Canada
 home: Canada
 away: New Zealand
 home_score: 5

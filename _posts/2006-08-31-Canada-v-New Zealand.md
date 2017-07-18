@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Ellerslie Rugby Park, Edmonton, Alberta, Canada
 home: Canada
 away: New Zealand
 home_score: 7

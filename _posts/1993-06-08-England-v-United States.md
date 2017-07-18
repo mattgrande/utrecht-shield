@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Fletcher's Fields, Markham, Ontario, Canada
 home: England
 away: United States
 home_score: 17

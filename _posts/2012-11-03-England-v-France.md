@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Esher, England
 home: England
 away: France
 home_score: 23

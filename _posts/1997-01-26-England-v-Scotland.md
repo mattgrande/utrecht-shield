@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Blackheath, England
 home: England
 away: Scotland
 home_score: 23

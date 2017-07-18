@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Recco, Genoa, Italy
 home: Italy
 away: England
 home_score: 3

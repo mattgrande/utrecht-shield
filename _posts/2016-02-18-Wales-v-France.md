@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: The Gnoll, Neath, Wales
 home: Wales
 away: France
 home_score: 10

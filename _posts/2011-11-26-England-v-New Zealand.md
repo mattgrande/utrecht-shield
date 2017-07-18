@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Twickenham, London, England
 home: England
 away: New Zealand
 home_score: 10

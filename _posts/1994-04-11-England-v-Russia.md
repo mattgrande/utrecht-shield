@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Boroughmuir RFC, Edinburgh, Scotland
 home: England
 away: Russia
 home_score: 66

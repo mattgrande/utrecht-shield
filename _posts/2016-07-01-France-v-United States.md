@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Regional Athletic Complex, Salt Lake City, Utah
 home: France
 away: United States
 home_score: 19

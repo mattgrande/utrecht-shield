@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Gala RFC, Galashiels, Scotland
 home: England
 away: France
 home_score: 18

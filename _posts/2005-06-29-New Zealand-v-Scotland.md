@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Ottawa, Ontario, Canada
 home: New Zealand
 away: Scotland
 home_score: 30

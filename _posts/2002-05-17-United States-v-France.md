@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Girona, Barcelona, Spain
 home: United States
 away: France
 home_score: 9

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Amsterdam, Netherlands
 home: Germany
 away: New Zealand
 home_score: 6

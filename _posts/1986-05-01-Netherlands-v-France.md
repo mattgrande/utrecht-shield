@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Enschede, Netherlands
 home: Netherlands
 away: France
 home_score: 10

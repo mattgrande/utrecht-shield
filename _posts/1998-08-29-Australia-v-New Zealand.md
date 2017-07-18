@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Sydney, Australia
 home: Australia
 away: New Zealand
 home_score: 3

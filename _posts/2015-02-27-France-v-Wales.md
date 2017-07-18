@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Stade Sapiac, Montauban, France
 home: France
 away: Wales
 home_score: 28

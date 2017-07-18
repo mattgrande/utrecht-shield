@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Stade Jean-Bouin, Paris, France
 home: England
 away: Canada
 home_score: 21

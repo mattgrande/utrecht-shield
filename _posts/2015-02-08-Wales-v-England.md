@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: St. Helen's Rugby and Cricket Ground, Swansea, Wales
 home: Wales
 away: England
 home_score: 13

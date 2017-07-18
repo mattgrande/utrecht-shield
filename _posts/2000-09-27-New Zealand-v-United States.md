@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Winnipeg, Manitoba, Canada
 home: New Zealand
 away: United States
 home_score: 45

@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Stade Marcel-Verchère, Bourg-en-Bresse, France
 home: France
 away: Italy
 home_score: 39

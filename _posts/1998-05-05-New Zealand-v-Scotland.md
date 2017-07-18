@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Amsterdam, Netherlands
 home: New Zealand
 away: Scotland
 home_score: 76

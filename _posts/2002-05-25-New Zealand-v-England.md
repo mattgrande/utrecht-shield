@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Olympic Stadium, Barcelona, Spain
 home: New Zealand
 away: England
 home_score: 19

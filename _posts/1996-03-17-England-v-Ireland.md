@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Sunbury-on-Thames, England
 home: England
 away: Ireland
 home_score: 12

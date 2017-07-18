@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Nuovi Impianti Sportivi Comunali, Badia Polesine, Italy
 home: Italy
 away: France
 home_score: 17

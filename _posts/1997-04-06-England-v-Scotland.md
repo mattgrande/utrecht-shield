@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Nice, France
 home: England
 away: Scotland
 home_score: 24

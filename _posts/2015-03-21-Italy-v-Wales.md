@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Stadio Plebiscito, Padova, Italy
 home: Italy
 away: Wales
 home_score: 23

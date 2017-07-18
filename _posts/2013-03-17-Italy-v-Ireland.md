@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Centro Sportivo Rino Venegoni e Luciano Marazzini, Parabiago, Milan, Italy
 home: Italy
 away: Ireland
 home_score: 3

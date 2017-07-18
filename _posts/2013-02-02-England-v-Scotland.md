@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Mosley Road, Esher, England
 home: England
 away: Scotland
 home_score: 76

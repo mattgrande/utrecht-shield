@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Melun, France
 home: France
 away: Ireland
 home_score: 46

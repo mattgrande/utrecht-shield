@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Utrecht, Netherlands
 home: Netherlands
 away: England
 home_score: 0

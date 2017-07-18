@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: Surrey Sports Park, Guildford, England
 home: England
 away: Kazakhstan
 home_score: 82

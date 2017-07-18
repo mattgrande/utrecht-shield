@@ -1,6 +1,6 @@
 ---
 layout: event
-location: Utrecht
+location: CNR, Marcoussis, France
 home: England
 away: Canada
 home_score: 13
