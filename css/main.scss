@@ -185,3 +185,16 @@ p.text-muted > a:hover, p.text-muted > a:visited {
     background-position: 50%;
     background-repeat: no-repeat;
 }
+
+.first-challenge {
+    .row {
+        .col-md-4 {
+            text-align: center;
+
+            .flag-icon {
+                width: 100%;
+                line-height: 10rem;
+            }
+        }
+    }
+}
