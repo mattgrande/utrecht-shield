@@ -71,6 +71,12 @@ body {
 
 .jumbotron .container {
     padding-top: 40px;
+
+    a {
+        font-weight: 200;
+        color: white;
+        text-decoration: underline;
+    }
 }
 
 .index-post {
