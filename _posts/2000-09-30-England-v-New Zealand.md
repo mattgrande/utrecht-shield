@@ -2,10 +2,7 @@
 layout: event
 location: Winnipeg, Manitoba, Canada
 home: England
-away: United States
+away: New Zealand
 home_score: 13
 away_score: 32
-changed_hands: true
-held_for: 1
-held_by: United States
 ---
