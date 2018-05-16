@@ -19,14 +19,14 @@ tagline: Hamilton, Ontario
     <div class="content">
         <table class="table table-striped"><tbody>
         {% for post in site.posts reversed %}
-        <tr>
+        <tr itemscope itemtype="http://schema.org/SportsEvent">
             {% if post.changed_hands %}
             <td rowspan="{{post.held_for}}">
                 {{post.held_by}}
                 <div class="events-info">Held for {{post.held_for}} challenges</div>
             </td>
             {% endif %}
-            <td>
+            <td itemprop="homeTeam">
                 {{post.home}}
             </td>
             <td style="text-align: center">
@@ -34,12 +34,14 @@ tagline: Hamilton, Ontario
                     {{post.home_score}}&mdash;{{post.away_score}}
                 <!-- </a> -->
             </td>
-            <td>
+            <td itemprop="awayTeam">
                 {{post.away}}
             </td>
             <td>
-                <div class="events-info"><i class="fa fa-calendar"></i> {{ post.date | date: "%b %-d, %Y" }}{% if post.time %} &nbsp;&nbsp;<i class="fa fa-clock-o"></i> {{ post.time }}{% endif %}<br />
-                <i class="fa fa-map-marker"></i> {{ post.location }}</div>
+                <div class="events-info">
+                    <span itemprop="doorTime"><i class="fa fa-calendar"></i> {{ post.date | date: "%b %-d, %Y" }}{% if post.time %} &nbsp;&nbsp;<i class="fa fa-clock-o"></i> {{ post.time }}{% endif %}</span><br />
+                    <span itemprop="location"><i class="fa fa-map-marker"></i> {{ post.location }}</span>
+                </div>
             </td>
         </tr>
         {% endfor %}
